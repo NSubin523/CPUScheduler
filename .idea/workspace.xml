@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="90598f67-549d-46e5-ac83-c24b104c167b" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/csv-plugin.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSCI330_Project.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/CSCI330_Project/CPU.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/CSCI330_Project/Clock.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/CSCI330_Project/MainActivity.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/CSCI330_Project/OurProcess.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/CSCI330_Project/Simulation.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/quants.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CPU.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Clock.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MainActivity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OurProcess.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Simulation.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1qf8aDA7gxNh1xo1I71FE4qfT0p" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="SDKs" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RunManager">
+    <configuration name="MainActivity" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MainActivity" />
+      <module name="CSCI330_Project" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.MainActivity" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="90598f67-549d-46e5-ac83-c24b104c167b" name="Default Changelist" comment="" />
+      <created>1617459344769</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1617459344769</updated>
+    </task>
+    <servers />
+  </component>
+</project>
